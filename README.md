@@ -1,4 +1,4 @@
-# rust-practice
+# rust-practice-env
 Rustの練習帳
 
 ## 事前準備
